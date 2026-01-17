@@ -7,7 +7,6 @@ class Program
     {
         string letter;
         int percentage;
-        bool pass;
 
         Console.WriteLine("What was your grade percentage?");
         percentage = int.Parse(Console.ReadLine());
